@@ -1,0 +1,4 @@
+.vs/
+*/build/**
+*.filters
+*.user
